@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="imgs">
+    <string-array name="random_imgs">
         <item>@drawable/trogdor</item>
         <item>@drawable/peench</item>
         <item>@drawable/poutine</item>
