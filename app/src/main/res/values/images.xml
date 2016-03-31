@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imgs">
+        <item>@drawable/trogdor</item>
+        <item>@drawable/peench</item>
+        <item>@drawable/poutine</item>
+        <item>@drawable/magda</item>
+        <item>@drawable/tuna</item>
+        <item>@drawable/us</item>
+    </string-array>
+</resources>
